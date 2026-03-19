@@ -98,4 +98,4 @@ input_folder/               watchdog
 
 ## Example dataset 
 
-The sample dataset for this can be downloaded from the kaggle. 
+The sample dataset for this can be downloaded from the kaggle.  For this project, I used the brain tumor dataset from kaggle.
