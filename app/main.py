@@ -7,6 +7,7 @@ FastAPI application with:
   • GET /categories         — list all categories with status
   • GET /categories/{id}    — single category detail with images
   • GET /queue/status       — prediction queue depth
+to run the app: uvicorn app.main:app --reload --port 3030
 """
 import asyncio
 import logging

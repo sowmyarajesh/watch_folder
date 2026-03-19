@@ -1,5 +1,7 @@
 data/
 .env
+DB/
+logs/
 
 # Python
 __pycache__/
